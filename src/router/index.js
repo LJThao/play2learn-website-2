@@ -8,7 +8,7 @@ const routes = [
 ];
 
 const router = createRouter({
-  history: createWebHistory(), // Switch to history mode (no hash in URL)
+  history: createWebHistory('/play2learn-website-2/'), // Switch to history mode (no hash in URL)
   routes,
 });
 
