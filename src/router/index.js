@@ -1,5 +1,4 @@
-// Router for HomePage and AnagramHunt
-import { createRouter, createWebHistory } from 'vue-router';
+import { createRouter, createWebHashHistory } from 'vue-router';
 import HomePage from '../components/HomePage.vue';
 import AnagramHunt from '../components/AnagramHunt.vue';
 
@@ -9,7 +8,7 @@ const routes = [
 ];
 
 const router = createRouter({
-  history: createWebHistory(),
+  history: createWebHashHistory(),  // Switch to hash history mode
   routes,
 });
 
