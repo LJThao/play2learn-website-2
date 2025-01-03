@@ -1,4 +1,4 @@
-import { createRouter, createWebHistory } from 'vue-router';
+import { createRouter, createWebHashHistory } from 'vue-router';
 import HomePage from '../components/HomePage.vue';
 import AnagramHunt from '../components/AnagramHunt.vue';
 
@@ -8,7 +8,7 @@ const routes = [
 ];
 
 const router = createRouter({
-  history: createWebHistory('/play2learn-website-2/'), // Switch to history mode (no hash in URL)
+  history: createWebHashHistory(), // Switch to hash history mode
   routes,
 });
 
