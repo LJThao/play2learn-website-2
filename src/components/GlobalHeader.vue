@@ -17,9 +17,9 @@
                         </ul>
                     </li>
                     <li class="nav-item"><span class="text-white my-2 mx-2 d-block">|</span></li>
-                    <li class="nav-item"><a class="nav-link text-white" href="/about.html">About</a></li>
+                    <li class="nav-item"><a class="nav-link text-white" href="/play2learn-website-2/about.html">About</a></li>
                     <li class="nav-item"><span class="text-white my-2 mx-2 d-block">|</span></li>
-                    <li class="nav-item"><a class="nav-link text-white" href="/login.html">Login</a></li>
+                    <li class="nav-item"><a class="nav-link text-white" href="/play2learn-website-2/login.html">Login</a></li>
                 </ul>
             </div>
         </nav>
