@@ -13,7 +13,7 @@
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                             <!-- Anagram Hunt Router Link -->
                             <li><router-link class="dropdown-item" to="/anagram-hunt">Anagram Hunt</router-link></li>
-                            <li><a class="dropdown-item" href="/games/math-facts.html">Math Facts Practice</a></li>
+                            <li><a class="dropdown-item" href="/math-facts.html">Math Facts Practice</a></li>
                         </ul>
                     </li>
                     <li class="nav-item"><span class="text-white my-2 mx-2 d-block">|</span></li>
