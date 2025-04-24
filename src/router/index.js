@@ -1,3 +1,6 @@
+// Vue Router configuration for the application
+
+// Import Vue Router components
 import { createRouter, createWebHashHistory } from 'vue-router';
 import HomePage from '../components/HomePage.vue';
 import AnagramHunt from '../components/AnagramHunt.vue';
